@@ -155,11 +155,6 @@ GET /inventory/search?priceFrom=50&priceTo=100
 
 ---
 
-## Notes
-- Ensure that Postman is used for bulk insertion using the **Runner** feature.
-- Sorting and filtering options can be expanded based on business requirements.
 
----
-This documentation follows **REST API Industry Standards** to ensure clarity and ease of use. 🚀
 
 
